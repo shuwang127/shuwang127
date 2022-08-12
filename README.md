@@ -4,7 +4,7 @@
 <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=shuwang127&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide_title=true" />
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwang127&layout=compact"/>
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwang127&layout=compact&hide_title=true" />
 
 
 <!--
