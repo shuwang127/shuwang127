@@ -20,10 +20,6 @@
 ## 📫 
 
 
-## Magic Number
-
-![Visited By](https://count.getloli.com/get/@shuwang127?theme=gelbooru)
-
 <!--
 **shuwang127/shuwang127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
