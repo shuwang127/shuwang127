@@ -3,20 +3,8 @@
 
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=shuwang127&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide_title=true" />
 
-## 💬 My Status
-
-- 🌱 ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Ph.D. Candidate
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Research on AI and Security
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Coder
-- j
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwang127&layout=compact"/>
-
-## 💡 My status
-
-- 🌱 
-- 🌱 
-- 🌱 
 
 
 <!--
