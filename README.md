@@ -1,10 +1,10 @@
 ### Hi there, this is shuwang127. 👋
 
 
-<img align="left" height="145em" src="https://github-readme-stats.vercel.app/api?username=shuwang127&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
+<img align="left" height="144em" src="https://github-readme-stats.vercel.app/api?username=shuwang127&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" />
 
 
-<img align="right" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwang127&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&layout=compact" />
+<img align="right" height="144em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwang127&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&layout=compact" />
 
 
 <!--
