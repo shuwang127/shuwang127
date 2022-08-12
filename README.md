@@ -7,7 +7,6 @@
 - 🌱 ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Ph.D. Candidate
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Matlab
-- ✅ ⁠ ⁢⁣⁡⁠ Shell
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwang127&layout=compact"/>
 
