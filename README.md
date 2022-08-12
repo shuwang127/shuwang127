@@ -1,4 +1,4 @@
-### Hi there, this is shuwang127. 👋
+### Hi there, this is Shu. 👋
 
 
 <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=shuwang127&show_icons=true&hide_border=true&count_private=true&hide_title=true" />
