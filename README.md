@@ -6,7 +6,7 @@
 
 - 🌱 ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Ph.D. Candidate
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Research on AI and Security
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Matlab
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Coder
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwang127&layout=compact"/>
 
