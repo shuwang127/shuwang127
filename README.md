@@ -1,7 +1,6 @@
 ### Hi there, this is Shu. 👋
 <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api?username=shuwang127&show_icons=true&hide_border=true&count_private=true&hide_title=true" />
 
-- 👋 Hi, I’m @shuwang127
 - 👀 I’m interested in AI/ML, software, and security research.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on interesting research projects
