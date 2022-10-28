@@ -8,5 +8,4 @@
 - 👀 AI/ML, software, and security research.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on interesting research projects.
-- 📫 How to reach me: [My personal page](https://shuwang127.github.io)
 - 😄 Pronouns: he/him/his
