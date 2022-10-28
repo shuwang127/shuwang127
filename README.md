@@ -6,6 +6,6 @@
 <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api?username=shuwang127&show_icons=true&hide_border=true&count_private=true&hide_title=true" />
 
 - 👀 I’m interested in AI/ML, software, security research.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning audio signal processing.
 - 💞️ I’m looking to collaborate on 
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/his.
