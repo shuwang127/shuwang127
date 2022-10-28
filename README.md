@@ -7,7 +7,7 @@
 - 📫 How to reach me: [My personal page](https://shuwang127.github.io)
 - 😄 Pronouns: he/him/his
 
-<img align="right" height="140em" src="https://github-readme-stats.vercel.app/api?username=shuwang127&show_icons=true&hide_border=true&count_private=true&hide_title=true" />
+<img align="right" height="120em" src="https://github-readme-stats.vercel.app/api?username=shuwang127&show_icons=true&hide_border=true&count_private=true&hide_title=true" />
 
 <!--
 <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwang127&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&layout=compact" />
