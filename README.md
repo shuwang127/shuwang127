@@ -8,5 +8,5 @@
 
 - 👀 I’m interested in AI/ML, software, security research.
 - 🌱 I’m currently learning audio signal processing.
-- 👨🏻‍💻 I’m using Python, C/C++, Matlab.
+- 👨🏻‍💻 I’m using Python, C/C++, and Matlab.
 - 💬 Ask me about anything and everything!
