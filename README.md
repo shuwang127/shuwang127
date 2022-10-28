@@ -7,5 +7,5 @@
 
 - 👀 AI/ML, software, and security research.
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on interesting research projects.
+- 💞️ I’m looking to collaborate on 
 - 😄 Pronouns: he/him/his
