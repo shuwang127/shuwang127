@@ -7,6 +7,6 @@
 [![Homepage](https://img.shields.io/badge/Homepage-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shuwang127.github.io/)](https://shuwang127.github.io/)
 
 - 👀 I’m interested in AI/ML, software, security research.
-- 🌱 I’m currently learning audio signal processing.
-- 👨🏻‍💻 I’m using Python, C/C++, and Matlab.
-- 💓 Love for science and innovation.!
+- 🍀 I’m currently learning audio signal processing.
+- 💻 I’m using Python, C/C++, and Matlab.
+- 💡 Love for science and innovation!
